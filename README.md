@@ -1,3 +1,5 @@
+## [Solution](https://github.com/raoyvn/RepData_PeerAssessment1/blob/master/PA1_template.html)
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
